@@ -1,7 +1,8 @@
-sunscreen
+misc_toys = [goggles, snorkle, pop-it]
+black_mesh_bag = [sunscreen, beach towel(s), book or two, misc_toys]
 sand blanket
 shade lean-to
-beach towel
+
 trail mix
 #habachi grill
 #charcoal
@@ -11,7 +12,5 @@ boogie boards
 buckets
 swimsuits
 #surfboard
-book or two
 beach chairs
-misc_toys = [goggles, snorkle, pop-it]
 #guitar
