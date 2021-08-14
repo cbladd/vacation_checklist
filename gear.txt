@@ -2,11 +2,9 @@ misc_toys = [goggles, snorkle, pop-it]
 black_mesh_bag = [sunscreen, beach towel(s), book or two, misc_toys]
 sand blanket
 shade lean-to
-
-trail mix
 #habachi grill
 #charcoal
-bag_cooler = [water, beer, soda]
+bag_cooler = [water, beer, soda, trail mix]
 boogie boards
 #shovel
 buckets
