@@ -13,4 +13,4 @@ swimsuits
 #surfboard
 book or two
 beach chairs
-misc toys = [goggles, snorkle, 
+misc_toys = [goggles, snorkle, pop-it]
