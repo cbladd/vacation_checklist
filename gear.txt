@@ -14,3 +14,4 @@ swimsuits
 book or two
 beach chairs
 misc_toys = [goggles, snorkle, pop-it]
+#guitar
