@@ -1,4 +1,3 @@
-water
 sunscreen
 sand blanket
 shade lean-to
@@ -6,6 +5,7 @@ trail mix
 #habachi grill
 #charcoal
 #cold beer
+bag_cooler = [water, beer, soda,]
 boogie boards
 shovel
 buckets
@@ -13,4 +13,4 @@ swimsuits
 #surfboard
 book or two
 beach chairs
-misc toys
+misc toys = [goggles, snorkle, 
