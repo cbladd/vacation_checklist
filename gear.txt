@@ -5,10 +5,9 @@ shade lean-to
 #habachi grill
 #charcoal
 bag_cooler = [water, beer, soda, trail mix]
-boogie boards
 #shovel
 buckets
 swimsuits
-#surfboard
+boards = [skim, surf, boogie, sup]
 beach chairs
 #guitar
