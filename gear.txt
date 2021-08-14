@@ -1,13 +1,13 @@
 sunscreen
 sand blanket
 shade lean-to
+beach towel
 trail mix
 #habachi grill
 #charcoal
-#cold beer
-bag_cooler = [water, beer, soda,]
+bag_cooler = [water, beer, soda]
 boogie boards
-shovel
+#shovel
 buckets
 swimsuits
 #surfboard
